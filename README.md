@@ -1,3 +1,3 @@
 # com-site
 
-computer science department web-site redesign
+computer science department's web-site redesign
