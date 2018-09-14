@@ -2,7 +2,7 @@
 
 Redesign the existing Computer Science department's website. The mini project's purpose is to teach students and practice Git VCS. Teach how to work and collaborate on the project using the VCS Git.
 # Teamleader: Zhamiila Kartanbaeva
-# Designer,photoshop ,Black worker: Elbrus Baev 
+# Designer,photoshop : Elbrus Baev 
 # Content manager, Page maker, designer assistent:  Viacheslav Ustiantsev 
 # JS developer, Quality Assurance, system administrator: Nurdoolot Tagaev
 # Content manager, css : Zhamiila Kartanbaeva
