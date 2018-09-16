@@ -8,4 +8,4 @@ Redesign the existing Computer Science department's website. The mini project's 
 # Content manager, css : Zhamiila Kartanbaeva
 # Content manager, project manager: Venera Kanybekova
 
-# link to site: https://""""""""".github.io/com
+# link to site: https://jamilya824.github.io/com-site/
