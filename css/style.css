@@ -17,7 +17,8 @@ body{
 .colorme {
 	color:#55a2a6;
 }
-
+.noslide h1{
+	font-family: 'Titillium Web', sans-serif;
 .colorbackground {
 	background:#55a2a6;
 }
