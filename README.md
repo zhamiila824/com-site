@@ -4,7 +4,7 @@ Redesign the existing Computer Science department's website. The mini project's 
 # Teamleader: Zhamiila Kartanbaeva
 # Designer, Photoshop: Elbrus Baev 
 # Content Manager, Page Maker, Designer Assistent: Viacheslav Ustiantsev 
-# JS Developer, Quality Assurance, System Administrator: Nurdoolot Tagaev
+# Quality Assurance, Content Manager, Designer Assistent: Nurdoolot Tagaev
 # Content Manager, CSS: Zhamiila Kartanbaeva
 # Content Manager, Project Manager: Venera Kanybekova
 
