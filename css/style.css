@@ -10,6 +10,7 @@ html{
 body{
 	font-family: DroidSansRegular, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 	font-size: 13px; line-height: 20px;
+	font-variant: small-caps;	
 	color: #666;
 	position: relative;
 	-webkit-font-smoothing: antialiased;
@@ -17,11 +18,43 @@ body{
 .colorme {
 	color:#55a2a6;
 }
-#indexText{
+@-webkit-keyframes color_change {
+	from { background-color: #1e74ff; }
+	to { background-color: #008731; }
+}
+@-moz-keyframes color_change {
+	from { background-color: #1e74ff; }
+	to { background-color: #008731; }
+}
+@-ms-keyframes color_change {
+	from { background-color: #1e74ff; }
+	to { background-color: #008731; }
+}
+@-o-keyframes color_change {
+	from { background-color: #1e74ff; }
+	to { background-color: #008731; }
+}
+@keyframes color_change {
+	from { background-color: #1e74ff; }
+	to { background-color: #008731; }
+}
+#subheader{
+	animation-name: color_change;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+.left{
+	font-variant: normal;
 	font-family: 'Titillium Web', sans-serif;
 }
-#indexSubtext{
-	font-variant: small-caps;
+.navtext{
+	font-variant: normal;
+	font-family: 'Mukta', sans-serif;
+}
+#indexText{
+	font-variant: normal;
+	font-family: 'Titillium Web', sans-serif;
 }
 .colorbackground {
 	background:#55a2a6;
@@ -1672,7 +1705,6 @@ sf-menu li {
 }
 .sf-menu li:hover,.sf-menu li.sfHover,.sf-menu a:focus,.sf-menu a:hover,.sf-menu a:active {
 	outline: 0;
-	color: #ccc;
 }
 .sf-menu a.sf-with-ul {
 	min-width: 1px;
