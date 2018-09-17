@@ -20,6 +20,9 @@ body{
 #indexText{
 	font-family: 'Titillium Web', sans-serif;
 }
+#indexSubtext{
+	font-variant: small-caps;
+}
 .colorbackground {
 	background:#55a2a6;
 }
