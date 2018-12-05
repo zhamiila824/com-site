@@ -6,6 +6,6 @@ Redesign the existing Computer Science department's website. The mini project's 
 # Content Manager, Page Maker, Designer Assistent: Viacheslav Ustiantsev 
 # Quality Assurance, Content Manager, Designer Assistent: Nurdoolot Tagaev
 # Content Manager, CSS: Zhamiila Kartanbaeva
-# Content Manager, Project Manager: Venera Kanybekova
+
 
 # Link to site: https://jamilya824.github.io/com-site/
